@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "frontend.h": "c",
+        "backend.h": "c"
+    }
+}
